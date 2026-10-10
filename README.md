@@ -118,6 +118,8 @@ The script tests the health endpoint, a spam message, a ham message, and invalid
 ## Swagger UI Screenshot
 
 <img width="1920" height="968" alt="Screenshot 2026-10-10 at 3 50 37 PM" src="https://github.com/user-attachments/assets/3467432c-90aa-47eb-a3a6-6baba3948e91" />
+<img width="1261" height="784" alt="Screenshot 2026-10-10 at 3 54 09 PM" src="https://github.com/user-attachments/assets/414c2611-f857-4cea-b736-81939fc2c4f6" />
+
 
 
 NB. All this is running Locally not hosted
