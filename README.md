@@ -74,11 +74,13 @@ fastapi dev main.py
 
 The API runs locally at:
 
-api runs in the locally implemented port 8000
+http://localhost:8000
 
 ## Swagger UI
 
-locally implemented 
+Open the interactive API documentation:
+
+http://localhost:8000/docs
 
 ## Example Prediction Request
 
@@ -113,3 +115,8 @@ python test_api.py
 
 The script tests the health endpoint, a spam message, a ham message, and invalid input.
 
+## Swagger UI Screenshot
+
+Add a screenshot of the working Swagger UI at `/docs` here after running the API successfully.
+
+NB. ALl this is running Locally not hosted
