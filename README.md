@@ -74,13 +74,11 @@ fastapi dev main.py
 
 The API runs locally at:
 
-http://localhost:8000
+api runs in the locally implemented port 8000
 
 ## Swagger UI
 
-Open the interactive API documentation:
-
-http://localhost:8000/docs
+locally implemented 
 
 ## Example Prediction Request
 
