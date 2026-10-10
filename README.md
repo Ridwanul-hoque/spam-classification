@@ -117,6 +117,7 @@ The script tests the health endpoint, a spam message, a ham message, and invalid
 
 ## Swagger UI Screenshot
 
-Add a screenshot of the working Swagger UI at `/docs` here after running the API successfully.
+<img width="1920" height="968" alt="Screenshot 2026-10-10 at 3 50 37 PM" src="https://github.com/user-attachments/assets/3467432c-90aa-47eb-a3a6-6baba3948e91" />
+
 
 NB. ALl this is running Locally not hosted
